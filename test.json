@@ -1,0 +1,22 @@
+{
+  "cars": [
+    {
+      "name": "Skoda",
+      "age": 30
+    },
+    {
+      "name": "VW",
+      "age": 90
+    }
+  ],
+  "devices": [
+    {
+      "name": "d01",
+      "env": "dev"
+    },
+    {
+      "name": "d01",
+      "env": "dev"
+    }
+  ]
+}
